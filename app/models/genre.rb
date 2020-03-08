@@ -15,3 +15,4 @@ class Genre < ActiveRecord::Base
       t.name
   end
 end
+end 
